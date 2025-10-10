@@ -1,0 +1,4 @@
+[submodule "Guia13.1/GeometriaModels"]
+	path = Guia13.1/GeometriaModels
+	url = https://github.com/fernandofilipuzzi-dev/tup_aplicada_2025_guia11.git
+	branch = main
