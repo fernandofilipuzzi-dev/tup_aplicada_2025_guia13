@@ -1,4 +1,4 @@
-namespace GeometriaClientAPIWeb
+namespace GeometriaClientRestAPIDesktop
 {
     internal static class Program
     {
